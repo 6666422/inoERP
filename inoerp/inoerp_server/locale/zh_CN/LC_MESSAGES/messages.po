@@ -9861,7 +9861,7 @@ msgid "Last Service"
 msgstr "上次服务"
 
 msgid "Maintenance WO Material Transaction"
-msgstr "Maintenance WO Material Transaction"
+msgstr "维护工单原料交易"
 
 msgid "Meter"
 msgstr "米"
@@ -9873,7 +9873,7 @@ msgid "Readings"
 msgstr "阅读"
 
 msgid "Maintenance Move Transaction"
-msgstr "维护移动事物"
+msgstr "维护移动交易"
 
 msgid "BOM (View Only)"
 msgstr "BOM (View Only)"
@@ -9921,28 +9921,28 @@ msgid "Cycle Interval"
 msgstr "Cycle Interval"
 
 msgid "Maintenance Work Order"
-msgstr "Maintenance Work Order"
+msgstr "维护工单"
 
 msgid "Maintenance WO Resource Transaction"
-msgstr "Maintenance WO Resource Transaction"
+msgstr "维护工单资源交易"
 
 msgid "Payable Control"
-msgstr "Payable Control"
+msgstr "付款控制"
 
 msgid "Control Details"
-msgstr "Control Details"
+msgstr "控制详情"
 
 msgid "Payable Info"
-msgstr "Payable Info"
+msgstr "付款信息"
 
 msgid "Payment Process"
-msgstr "Payment Process"
+msgstr "付款进度"
 
 msgid "Supplier Master"
-msgstr "Supplier Master"
+msgstr "供应商"
 
 msgid "Print Transaction"
-msgstr "Print Transaction"
+msgstr "打印交易"
 
 msgid "Trnx Account"
 msgstr "Trnx Account"
