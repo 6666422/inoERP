@@ -8334,7 +8334,7 @@ msgid "Equipment"
 msgstr "设备"
 
 msgid "Note"
-msgstr "注"
+msgstr "备注"
 
 msgid "Resource Cost Id"
 msgstr "成本的资源 Id"
@@ -8373,7 +8373,7 @@ msgid "Schedule"
 msgstr "附表"
 
 msgid "24 Hours"
-msgstr "24 小时"
+msgstr "24小时"
 
 msgid "Stnd. Rate"
 msgstr "率 Stnd。"
@@ -8394,7 +8394,7 @@ msgid "ECO Implemented"
 msgstr "实施生态"
 
 msgid "Roll up"
-msgstr "卷起"
+msgstr "上卷"
 
 msgid "Cumm. Yield"
 msgstr "Cumm。产量"
@@ -8904,7 +8904,7 @@ msgid "Count Id"
 msgstr "计数 Id"
 
 msgid "StatusStatus"
-msgstr "StatusStatus"
+msgstr "状态"
 
 msgid "Code On Count"
 msgstr "在计数上的代码"
@@ -8994,7 +8994,7 @@ msgid "Doc. Id"
 msgstr "文档 Id"
 
 msgid "Ref Doc"
-msgstr "Ref Doc"
+msgstr "参考文档"
 
 msgid "WO BOM Line Id"
 msgstr "窝物料清单行 Id"
@@ -9096,7 +9096,7 @@ msgid "Receipt Header Id"
 msgstr "收到标题 Id"
 
 msgid "PO Info"
-msgstr "大埔信息"
+msgstr "PO信息"
 
 msgid "Receipt"
 msgstr "收据"
@@ -9153,7 +9153,7 @@ msgid "Serial Number Details"
 msgstr "序列号的详细信息"
 
 msgid "Subinventory Details"
-msgstr "Subinventory 的详细信息"
+msgstr "子库存详细信息"
 
 msgid "Unit Of Measure"
 msgstr "度量单位"
@@ -9171,7 +9171,7 @@ msgid "Bank Names"
 msgstr "银行名称"
 
 msgid "Transaction"
-msgstr "交易记录"
+msgstr "交易"
 
 msgid "Other"
 msgstr "其他"
@@ -9249,7 +9249,7 @@ msgid "Contacts"
 msgstr "联系人"
 
 msgid "Web-site"
-msgstr "Web 站点"
+msgstr "网站"
 
 msgid "Associate Contact"
 msgstr "关联联系人"
@@ -9792,121 +9792,121 @@ msgid "SO Line "
 msgstr "如此行"
 
 msgid "Task status Details"
-msgstr "Task status Details"
+msgstr "任务状态详情"
 
 msgid "Task Type"
-msgstr "Task Type"
+msgstr "任务类型"
 
 msgid "Task Type Details"
-msgstr "Task Type Details"
+msgstr "任务类型详情"
 
 msgid "Inv Item Number"
-msgstr "Inv Item Number"
+msgstr "库存物品数目"
 
 msgid "Accounting Group"
-msgstr "Accounting Group"
+msgstr "会计组织"
 
 msgid "Asset Activities"
-msgstr "Asset Activities"
+msgstr "资产活动"
 
 msgid "Activity Reference"
-msgstr "Activity Reference"
+msgstr "活动参照物"
 
 msgid "Reference2"
-msgstr "Reference2"
+msgstr "参照物2"
 
 msgid "Activity Item"
-msgstr "Activity Item"
+msgstr "活动条目"
 
 msgid "Accounting Class"
-msgstr "Accounting Class"
+msgstr "会计类别"
 
 msgid "Owning Department"
-msgstr "Owning Department"
+msgstr "所在部门"
 
 msgid "View Maintenance Activity"
-msgstr "View Maintenance Activity"
+msgstr "查看维护活动"
 
 msgid "Maintenance Schedule"
-msgstr "Maintenance Schedule"
+msgstr "维护计划"
 
 msgid "Maintenance Schedule Activities"
-msgstr "Maintenance Schedule Activities"
+msgstr "维护计划活动"
 
 msgid "Activities"
-msgstr "Activities"
+msgstr "活动"
 
 msgid "Rules"
-msgstr "Rules"
+msgstr "规则"
 
 msgid "Ref Id"
-msgstr "Ref Id"
+msgstr "参考ID"
 
 msgid "Activity"
-msgstr "Activity"
+msgstr "活动"
 
 msgid "Interval Multiple"
-msgstr "Interval Multiple"
+msgstr "间隔倍数"
 
 msgid "Repeat in Cycle"
-msgstr "Repeat in Cycle"
+msgstr "重复循环"
 
 msgid "Last Date"
-msgstr "Last Date"
+msgstr "上次时间"
 
 msgid "Consolidate"
-msgstr "Consolidate"
+msgstr "联合"
 
 msgid "Last Service"
-msgstr "Last Service"
+msgstr "上次服务"
 
 msgid "Maintenance WO Material Transaction"
 msgstr "Maintenance WO Material Transaction"
 
 msgid "Meter"
-msgstr "Meter"
+msgstr "米"
 
 msgid "Meter Details"
 msgstr "Meter Details"
 
 msgid "Readings"
-msgstr "Readings"
+msgstr "阅读"
 
 msgid "Maintenance Move Transaction"
-msgstr "Maintenance Move Transaction"
+msgstr "维护移动事物"
 
 msgid "BOM (View Only)"
 msgstr "BOM (View Only)"
 
 msgid "Calendar Date [For Maintenace Schedule]"
-msgstr "Calendar Date [For Maintenace Schedule]"
+msgstr "日历时间 [维护计划]"
 
 msgid "Schedule Info"
-msgstr "Schedule Info"
+msgstr "计划信息"
 
 msgid "Calendar Date"
-msgstr "Calendar Date"
+msgstr "日期"
 
 msgid "Calendar Date Id"
-msgstr "Calendar Date Id"
+msgstr "日历日期Id"
 
 msgid "Maintenance Date"
-msgstr "Maintenance Date"
+msgstr "维护日期"
 
 msgid "Date Rules [For Maintenace Schedule]"
-msgstr "Date Rules [For Maintenace Schedule]"
+msgstr "日期规则 [维护计划]"
 
 msgid "Date Rules"
-msgstr "Date Rules"
+msgstr "日期规则"
 
 msgid "Rule Id"
-msgstr "Rule Id"
+msgstr "规则Id"
 
 msgid "Base Interval Days"
-msgstr "Base Interval Days"
+msgstr "基本间隔天数"
 
 msgid "Cycle Interval Days"
-msgstr "Cycle Interval Days"
+msgstr "轮询间隔天数"
 
 msgid "Meter Rules [For Maintenace Schedule]"
 msgstr "Meter Rules [For Maintenace Schedule]"
